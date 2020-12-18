@@ -1,2 +1,2 @@
 # Assignment-Day6
-Email Sending Project
+Project 2-Email Sending Project
